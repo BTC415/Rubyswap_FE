@@ -1,0 +1,54 @@
+{
+  "name": "RubySwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://rubyswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "WEGEM Token",
+      "symbol": "WEGEM",
+      "address": "0xE5fca20e55811D461800A853f444FBC6f5B72BEa",
+      "chainId": 1987,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/top1st/token-assets/main/png/egem.png"
+    },
+    {
+      "name": "GEMine Token",
+      "symbol": "GEM",
+      "address": "0xaf017fe9C9770BdbDA1A014D5D6c87B364225Cd0",
+      "chainId": 1987,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/top1st/token-assets/main/png/egem.png"
+    },
+    {
+      "name": "Ruby Token",
+      "symbol": "RUBY",
+      "address": "0xB6094af67bf43779ab704455c5DF02AD9141871B",
+      "chainId": 1987,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/top1st/token-assets/main/png/ruby.png"
+    },
+    {
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "address": "0x33F4999ee298CAa16265E87f00e7A8671c01D870",
+      "chainId": 1987,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/trueusd-tusd-logo.png?v=014"
+    },
+    {
+      "name": "TOSA Inu",
+      "symbol": "TOSA",
+      "address": "0x16D2A05Acc35c17B470fe6216D49145Cf85b00E8",
+      "chainId": 1987,
+      "decimals": 18,
+      "logoURI": "https://ibb.co/Lv8H7cF"
+    }
+  ]
+}
